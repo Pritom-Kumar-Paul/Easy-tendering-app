@@ -3,7 +3,7 @@ using namespace std;
  #define ll long long
  
 int main(){
- cout<<"PRitom";
+ cout<<"PRitom ";
  
 return 0;
 }
